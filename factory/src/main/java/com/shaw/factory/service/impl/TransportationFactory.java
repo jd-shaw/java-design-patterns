@@ -4,7 +4,7 @@ import com.shaw.factory.enums.FactoryType;
 import com.shaw.factory.service.Factory;
 
 /**
- * @author xjd
+ * @author shaw
  * @date 2023/5/16
  */
 public class TransportationFactory {

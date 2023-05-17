@@ -7,7 +7,7 @@ import com.shaw.factory.service.impl.FactoryCar;
 import java.util.function.Supplier;
 
 /**
- * @author xjd
+ * @author shaw
  * @date 2023/5/16
  */
 public enum FactoryType {

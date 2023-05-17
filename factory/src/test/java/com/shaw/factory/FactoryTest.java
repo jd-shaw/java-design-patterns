@@ -5,7 +5,7 @@ import com.shaw.factory.service.Factory;
 import com.shaw.factory.service.impl.TransportationFactory;
 
 /**
- * @author xjd
+ * @author shaw
  * @date 2023/5/16
  */
 public class FactoryTest {
