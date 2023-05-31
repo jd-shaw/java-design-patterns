@@ -3,7 +3,7 @@ package com.shaw.prototype;
 import lombok.SneakyThrows;
 
 /**
- * @author xjd
+ * @author shaw
  * @date 2023/5/22
  */
 public abstract class Prototype<T> implements Cloneable {

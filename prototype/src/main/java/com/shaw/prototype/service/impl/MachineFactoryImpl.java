@@ -7,7 +7,7 @@ import com.shaw.prototype.service.MachineFactory;
 import lombok.RequiredArgsConstructor;
 
 /**
- * @author xjd
+ * @author shaw
  * @date 2023/5/24
  */
 @RequiredArgsConstructor

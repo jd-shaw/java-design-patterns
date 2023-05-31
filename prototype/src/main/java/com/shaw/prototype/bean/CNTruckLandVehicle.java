@@ -5,7 +5,7 @@ import lombok.EqualsAndHashCode;
 import lombok.RequiredArgsConstructor;
 
 /**
- * @author xjd
+ * @author shaw
  * @date 2023/5/24
  */
 @EqualsAndHashCode(callSuper = true)
